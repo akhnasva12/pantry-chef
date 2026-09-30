@@ -36,12 +36,7 @@ chmod 755 uploads/creators/
 
 ### 5. Default Admin Account
 - **Email:** admin@pantrychef.com
-- **Password:** `password` (change immediately after first login)
-
-To update the password, login and use phpMyAdmin or run:
-```sql
-UPDATE users SET password = '$2y$12$your_new_hash' WHERE email = 'admin@pantrychef.com';
-```
+- **Password:** 
 
 ## File Structure
 ```
