@@ -1,4 +1,4 @@
-**LiVE DEMO** -  https://pantry-chef.site.je/
+**LIVE DEMO** -  https://pantry-chef.site.je/
 
 # PantryChef — Setup Guide
 
