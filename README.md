@@ -1,5 +1,7 @@
 **LIVE DEMO** -  https://pantry-chef.site.je/
 
+Pantry Chef is a web-based application designed to help customers decide what they can cook using the ingredients they already have at home. Instead of buying additional ingredients or spending time searching through different recipes, customers can enter or select the ingredients available in their pantry, and the application helps them find suitable recipes based on those ingredients. This makes meal planning easier, reduces food wastage by encouraging customers to use ingredients before they expire, and saves both time and money. The project can also be useful for customers who are unsure about what to prepare for breakfast, lunch, dinner, or snacks, as it gives them practical recipe suggestions based on what is already available. Overall, Pantry Chef provides a convenient and user-friendly way for customers to manage their available ingredients and discover meals they can prepare at home.
+
 # PantryChef — Setup Guide
 
 ## Requirements
